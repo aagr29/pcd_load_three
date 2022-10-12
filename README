@@ -1,6 +1,6 @@
 to start:
-git clone https://github.com/cognitive-earth/Threejs-app.git
-cd Threejs-app
+git clone https://github.com/aagr29/pcd_load_three.git
+cd pcd_load_three
 npm start
 Visit http://127.0.0.1:3000
 
